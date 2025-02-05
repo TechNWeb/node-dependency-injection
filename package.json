@@ -1,6 +1,6 @@
 {
   "name": "@TechNWeb/node-dependency-injection",
-  "version": "2.7.0-d",
+  "version": "2.7.0-e",
   "description": "The NodeDependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.",
   "main": "dist/lib/index.js",
   "directories": {
