@@ -161,6 +161,8 @@ export class FileLoader {
     constructor(container: ContainerBuilder);
 
     load(file: string | null): Promise<void>;
+
+    loadSync(file: string | null): void;
 }
 
 export class YamlFileLoader extends FileLoader {
