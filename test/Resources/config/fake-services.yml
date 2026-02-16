@@ -32,6 +32,9 @@ services:
 
     f:  '@foo'
 
+    foo_alias:
+        alias: foo
+
     lazy.service:
         class: ./../foobar
         lazy: true
