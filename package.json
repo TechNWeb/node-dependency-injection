@@ -27,9 +27,12 @@
       "test/"
     ]
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zazoomauro/node-dependency-injection.git"
+    "url": "git+https://github.com/TechNWeb/node-dependency-injection.git"
   },
   "keywords": [
     "node",
